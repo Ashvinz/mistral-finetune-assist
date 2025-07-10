@@ -4,7 +4,11 @@
 🎯 Built to create your **own smart AI assistant**, trainable in minutes, and deployable anywhere (Hugging Face, local, or cloud).
 
 ---
+- ✅ Cloning the repo
+- ✅ Cleaning metadata widgets issues
+- ✅ Running in Jupyter or Colab safely
 
+---
 ## 📌 Features
 - ✅ Single `.ipynb` file to **train & upload to Hugging Face**
 - ✅ Based on `unsloth/mistral-7b-bnb-4bit`
